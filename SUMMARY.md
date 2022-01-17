@@ -1,12 +1,12 @@
 # Table of contents
 
-* [What is MyProduct?](README.md)
+* [Blockchain / DLT Systems and Architectures](README.md)
 
-## Guides
+## Technical Information
 
-* [Creating your first project](guides/creating-your-first-project.md)
-* [Creating your first task](guides/creating-your-first-task.md)
-* [Advanced permissions](guides/advanced-permissions.md)
+* [Ethereum](technical-information/ethereum.md)
+* [Bitcoin](technical-information/bitcoin.md)
+* [Polkadot](technical-information/polkadot.md)
 
 ## Fundamentals
 
@@ -26,4 +26,4 @@
 
 ## Extras
 
-* [Keyboard Shortcuts](extras/keyboard-shortcuts.md)
+* [Investment](extras/investment.md)

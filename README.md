@@ -1,7 +1,7 @@
-# What is MyProduct?
+# Blockchain / DLT Systems and Architectures
 
 {% hint style="info" %}
-**Good to know:** providing a brief overview of your product and its core use cases is a great place to start with product docs. Your product might seem obvious to you – you made it! However, to others, even folks who are trying your product after reading your site or getting a sales demo, it can still be unclear. This is your chance to clarify your product and set the right expectations!
+**Good to know:** The goal of this page is to concentrate all information about the blockchain system, technical information, tutorials, etc.&#x20;
 {% endhint %}
 
 Here are a couple of examples of succinct overviews from products with really great docs:
@@ -26,20 +26,20 @@ Here are a couple of examples of succinct overviews from products with really gr
 **Good to know:** A succinct video overview is a great way to introduce folks to your product. Embed a Loom, Vimeo or YouTube video and you're good to go! We love this video from the fine folks at [Loom](https://loom.com) as a perfect example of a succinct feature overview.
 {% endhint %}
 
-### Guides: Jump right in
+### Technical overview: Jump right in
 
 Follow our handy guides to get started on the basics as quickly as possible:
 
-{% content-ref url="guides/creating-your-first-project.md" %}
-[creating-your-first-project.md](guides/creating-your-first-project.md)
+{% content-ref url="technical-information/ethereum.md" %}
+[ethereum.md](technical-information/ethereum.md)
 {% endcontent-ref %}
 
-{% content-ref url="guides/creating-your-first-task.md" %}
-[creating-your-first-task.md](guides/creating-your-first-task.md)
+{% content-ref url="technical-information/bitcoin.md" %}
+[bitcoin.md](technical-information/bitcoin.md)
 {% endcontent-ref %}
 
-{% content-ref url="guides/advanced-permissions.md" %}
-[advanced-permissions.md](guides/advanced-permissions.md)
+{% content-ref url="technical-information/polkadot.md" %}
+[polkadot.md](technical-information/polkadot.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}
