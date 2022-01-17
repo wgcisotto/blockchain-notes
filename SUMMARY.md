@@ -8,21 +8,21 @@
 * [Bitcoin](technical-information/bitcoin.md)
 * [Polkadot](technical-information/polkadot.md)
 
-## Fundamentals
+## Study
 
-* [Projects](fundamentals/projects.md)
-* [Members](fundamentals/members.md)
-* [Task Lists](fundamentals/task-lists.md)
-* [Tasks](fundamentals/tasks.md)
+* [For Designers](study/for-designers/README.md)
+  * [Figma Integration](study/for-designers/figma-integration.md)
+* [For Engineers](study/for-engineers/README.md)
+  * [GitHub Integration](study/for-engineers/github-integration.md)
+* [For Support](study/for-support/README.md)
+  * [Intercom Integration](study/for-support/intercom-integration.md)
 
-## Use Cases
+## Tutorials
 
-* [For Designers](use-cases/for-designers/README.md)
-  * [Figma Integration](use-cases/for-designers/figma-integration.md)
-* [For Engineers](use-cases/for-engineers/README.md)
-  * [GitHub Integration](use-cases/for-engineers/github-integration.md)
-* [For Support](use-cases/for-support/README.md)
-  * [Intercom Integration](use-cases/for-support/intercom-integration.md)
+* [Projects](tutorials/projects.md)
+* [Members](tutorials/members.md)
+* [Task Lists](tutorials/task-lists.md)
+* [Tasks](tutorials/tasks.md)
 
 ## Extras
 
