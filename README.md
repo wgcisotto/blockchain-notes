@@ -1,7 +1,7 @@
 # DLT - Blockchain Systems and Architectures
 
 {% hint style="info" %}
-**Good to know:** The goal of this page is to concentrate all information about the blockchain systems, technical information, tutorials, etc.&#x20;
+The goal of this page is to concentrate all information about the blockchain systems, technical information, tutorials, etc.&#x20;
 {% endhint %}
 
 ## What is blockchain?
@@ -20,6 +20,14 @@
 
 {% embed url="https://www.youtube.com/watch?t=3s&v=SSo_EIwHSd4" %}
 
+### Blockchain Fundamentals: Dive deeper
+
+Learn the fundamentals of blockchains to get a deeper understanding of the main features and characteristcs:
+
+{% content-ref url="tutorials/projects.md" %}
+[projects.md](tutorials/projects.md)
+{% endcontent-ref %}
+
 ### Blockchains overview:&#x20;
 
 {% content-ref url="technical-information/ethereum.md" %}
@@ -34,14 +42,6 @@
 [polkadot.md](technical-information/polkadot.md)
 {% endcontent-ref %}
 
-### Fundamentals: Dive a little deeper
-
-Learn the fundamentals of MyProduct to get a deeper understanding of our main features:
-
-{% content-ref url="tutorials/projects.md" %}
-[projects.md](tutorials/projects.md)
-{% endcontent-ref %}
-
 {% content-ref url="tutorials/members.md" %}
 [members.md](tutorials/members.md)
 {% endcontent-ref %}
@@ -53,7 +53,3 @@ Learn the fundamentals of MyProduct to get a deeper understanding of our main fe
 {% content-ref url="tutorials/tasks.md" %}
 [tasks.md](tutorials/tasks.md)
 {% endcontent-ref %}
-
-{% hint style="info" %}
-**Good to know:** Splitting your product into fundamental concepts, objects, or areas can be a great way to let readers deep dive into the concepts that matter most to them. Combine guides with this approach to 'fundamentals' and you're well on your way to great documentation!
-{% endhint %}
