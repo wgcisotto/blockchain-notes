@@ -12,8 +12,8 @@
 
 ## Technical Information
 
-* [Ethereum](technical-information/ethereum.md)
 * [Bitcoin](technical-information/bitcoin.md)
+* [Ethereum](technical-information/ethereum.md)
 * [Polkadot](technical-information/polkadot.md)
 
 ## Study
