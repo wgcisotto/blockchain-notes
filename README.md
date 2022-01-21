@@ -4,7 +4,7 @@
 **Good to know:** The goal of this page is to concentrate all information about the blockchain systems, technical information, tutorials, etc.&#x20;
 {% endhint %}
 
-What is blockchain?
+## What is blockchain?
 
 > Blockchain is an emerging technology for decentralized and transactional data sharing across a large network of untrusted participants. It enables new forms of distributed software architectures, where components can find agreements on their shared states without trusting a central integration point or any particular participating components.
 >
@@ -16,17 +16,11 @@ What is blockchain?
 
 ## Getting Started
 
-**Got 2 minutes?** Check out a video overview of our product:
+**Got 6 minutes?** Check out a video overview of blockchain:
 
-{% embed url="https://www.loom.com/share/3bfa83acc9fd41b7b98b803ba9197d90" %}
+{% embed url="https://www.youtube.com/watch?t=3s&v=SSo_EIwHSd4" %}
 
-{% hint style="info" %}
-**Good to know:** A succinct video overview is a great way to introduce folks to your product. Embed a Loom, Vimeo or YouTube video and you're good to go! We love this video from the fine folks at [Loom](https://loom.com) as a perfect example of a succinct feature overview.
-{% endhint %}
-
-### Technical overview: Jump right in
-
-Follow our handy guides to get started on the basics as quickly as possible:
+### Blockchains overview:&#x20;
 
 {% content-ref url="technical-information/ethereum.md" %}
 [ethereum.md](technical-information/ethereum.md)
@@ -39,10 +33,6 @@ Follow our handy guides to get started on the basics as quickly as possible:
 {% content-ref url="technical-information/polkadot.md" %}
 [polkadot.md](technical-information/polkadot.md)
 {% endcontent-ref %}
-
-{% hint style="info" %}
-**Good to know:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
-{% endhint %}
 
 ### Fundamentals: Dive a little deeper
 
