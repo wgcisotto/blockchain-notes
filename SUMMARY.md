@@ -2,6 +2,14 @@
 
 * [DLT - Blockchain Systems and Architectures](README.md)
 
+## Fundaments
+
+* [Components](fundaments/components/README.md)
+  * [Protocol rules](fundaments/components/protocol-rules.md)
+  * [Consensus](fundaments/components/consensus.md)
+  * [Ledger](fundaments/components/ledger.md)
+  * [Cryptography](fundaments/components/cryptography.md)
+
 ## Technical Information
 
 * [Ethereum](technical-information/ethereum.md)
