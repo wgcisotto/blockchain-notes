@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Blockchain / DLT Systems and Architectures](README.md)
+* [DLT - Blockchain Systems and Architectures](README.md)
 
 ## Technical Information
 

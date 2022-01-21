@@ -1,20 +1,18 @@
-# Blockchain / DLT Systems and Architectures
+# DLT - Blockchain Systems and Architectures
 
 {% hint style="info" %}
-**Good to know:** The goal of this page is to concentrate all information about the blockchain system, technical information, tutorials, etc.&#x20;
+**Good to know:** The goal of this page is to concentrate all information about the blockchain systems, technical information, tutorials, etc.&#x20;
 {% endhint %}
 
-Here are a couple of examples of succinct overviews from products with really great docs:
+What is blockchain?
 
-> Loom is a video messaging tool that helps you get your message across through instantly shareable videos.
+> Blockchain is an emerging technology for decentralized and transactional data sharing across a large network of untrusted participants. It enables new forms of distributed software architectures, where components can find agreements on their shared states without trusting a central integration point or any particular participating components.
 >
-> With Loom, you can record your camera, microphone, and desktop simultaneously. Your video is then instantly available to share through Loom's patented technology.
->
-> — From the [Loom Docs](https://support.loom.com/hc/en-us/articles/360002158057-What-is-Loom-)
+> — From the [The Blockchain as a Software Connector](https://ieeexplore.ieee.org/document/7516828)
 
-> The Mailchimp Marketing API provides programmatic access to Mailchimp data and functionality, allowing developers to build custom features to do things like sync email activity and campaign analytics with their database, manage audiences and campaigns, and more.
+> Nodes collect new transactions into a block, hash them into a hash tree, and scan through nonce values to make the block's hash satisfy proof-of-work requirements. When they solve the proof-of-work, they broadcast the block to everyone and the block is added to the block chain.
 >
-> — From the [Mailchimp Marketing API docs](https://mailchimp.com/developer/marketing/docs/fundamentals/)
+> — From the Bitcoin [source-code](https://github.com/bitcoin/bitcoin/blob/master/src/primitives/block.h)
 
 ## Getting Started
 
